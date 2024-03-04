@@ -1,0 +1,11 @@
+Name: Makwana Amisha mukeshbhai
+Enroll_number:- 2202030400071
+Batch:- 4CE1
+
+Steps that I did to complete Assignment_1 :-
+•	Created a public repository on github on my username Amisha179 
+•	Named the repo to my enrollment number i.e. 2202030400071
+•	Added  a Readme file in which I added content like description
+•	Cloned the repository to my local computer with help of PAT – personal access token
+•	Setup the whole project on my local
+•	Then pushed the code to the gihub using the command git commit -m “project word file add”
